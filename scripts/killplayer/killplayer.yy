@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"killplayer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"killplayer",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
