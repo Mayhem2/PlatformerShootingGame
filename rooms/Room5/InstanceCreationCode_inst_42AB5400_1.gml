@@ -1,1 +1,1 @@
-target=Ending;
+target=Room6;
